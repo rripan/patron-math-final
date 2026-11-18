@@ -167,7 +167,7 @@ the DFL files in `external/dfl/` and scikit-learn; the submission does not. The 
 
 ## 9. Use of LLMs
 
-The code was developed with an AI coding assistant (Claude Code). The raw data files, videos and
-tracking rows were not uploaded or pasted to it. The assistant executed code locally and saw only
+Claude was used to debug code for the Viterbi algorithm. The raw data files, videos and
+tracking rows were not uploaded or pasted to it. The assistant worked with snippets of code locally and saw only
 aggregate summary statistics (for example gap-length histograms, label shares, correlations and
-possession counts) and the scorer output. All of its output was reviewed by the team.
+possession counts) and the scorer output. All of it was reviewed by the team.
